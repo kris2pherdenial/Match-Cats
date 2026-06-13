@@ -16,7 +16,7 @@
 - Attempts counter
 - Reset Button
 
-## Download
+# Download
 [Download Match Cats v1.0](https://github.com/kris2pherdenial/Match-Cats/releases/download/1.0/MatchCats.exe)
 
 # Tutorials followed
