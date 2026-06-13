@@ -1,4 +1,4 @@
-# Match-Cats
+# Match Cats
 My final project for Code-In-Place 2026. 
 A simple tile-matching game with cats.
 Written in Python with tkinter library.
