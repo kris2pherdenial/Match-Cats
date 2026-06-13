@@ -13,6 +13,8 @@ My final project for Code-In-Place 2026. A simple tile-matching game with cats.
 - Attempts counter
 - Reset Button
 
+## Download
+[Download Match Cats v1.0](https://github.com/kris2pherdenial/Match-Cats/releases/tag/v1.0)
 
 Written in Python with tkinter library.
 
