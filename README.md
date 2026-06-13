@@ -1,8 +1,8 @@
 # Match Cats
-My final project for Code-In-Place 2026. 
-A simple tile-matching game with cats.
-Written in Python with tkinter library.
-
+<p> My final project for Code-In-Place 2026. 
+    <br>A simple tile-matching game with cats.
+    <br>Written in Python with tkinter library and the random library.
+</p>
 # How to Play:
 - Click two tiles to reveal the cats
 - If the two cats match, they stay revealed
