@@ -3,6 +3,7 @@
     <br>A simple tile-matching game with cats.
     <br>Written in Python with tkinter library and the random library.
 </p>
+
 # How to Play:
 - Click two tiles to reveal the cats
 - If the two cats match, they stay revealed
