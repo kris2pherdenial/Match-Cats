@@ -22,6 +22,6 @@ Written in Python with tkinter library.
 - https://www.youtube.com/watch?v=tW8Bzokv8CQ
 
 <p>
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/29819e1b-f4bf-4071-b4b4-7e535cb4ecf1" />
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/1f57c611-4b56-4e7f-8f1a-7fcf618d53ff" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/29819e1b-f4bf-4071-b4b4-7e535cb4ecf1" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/1f57c611-4b56-4e7f-8f1a-7fcf618d53ff" />
 </p>
